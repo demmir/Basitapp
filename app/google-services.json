@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613464763483",
+    "project_id": "basicapp-137a3",
+    "storage_bucket": "basicapp-137a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613464763483:android:547833c9be00a5a675237e",
+        "android_client_info": {
+          "package_name": "com.muhammeddemir.basitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613464763483-a7r83somhnrjjilakfl454dvn2351avu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4yN3MG40tpHrpTJTa3E_qjKop9vO-GwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613464763483-a7r83somhnrjjilakfl454dvn2351avu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
